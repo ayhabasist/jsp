@@ -1,0 +1,2 @@
+# jsp
+syntax jsp
