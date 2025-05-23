@@ -9,7 +9,7 @@ buka terminal
 ketikkan :
 db2 backup database namadatabase to C
 
-jika notifikasi "the database is currently in use""
+jika notifikasi "the database is currently in use"
 
 ketikkan :
 db2stop force
